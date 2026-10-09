@@ -1,101 +1,88 @@
 # Hi, I'm Keerthana S 👋
 
-### Electronics & Communication Engineering Graduate | Embedded Systems | IoT | Python
+### Electronics & Communication Engineering Graduate | Software Development | Software Testing | Embedded Systems | IoT
 
-I am an Electronics & Communication Engineering graduate interested in **Embedded Systems, IoT, Wireless Communication, and Python development**.
+I'm an Electronics and Communication Engineering graduate interested in software development, software testing, embedded systems, IoT, and electronics. I enjoy combining programming, hardware, and analytical problem-solving to build practical and reliable technology solutions.
 
-I enjoy building real-time systems that combine hardware, software, sensors, and communication technologies to solve practical problems.
+I'm eager to learn new technologies, solve real-world problems, and contribute to innovative projects across software and electronics domains.
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-### Embedded Systems & IoT
-- ESP32
-- STM32
-- Embedded C
-- IoT
-- ESP-NOW
-- UART, SPI, I2C
-- Sensor Integration
-- Microcontrollers
-
-### Programming
+**Programming & Software Development**
 - Python
-- C/C++
 - SQL
-- Verilog HDL
+- Object-Oriented Programming
+- Data Analysis
 
-### Software & Tools
-- Arduino IDE
+**Software Testing**
+- Software Testing Fundamentals
+- Test Case Design
+- Bug Identification and Reporting
+- SQL-Based Data Validation
+
+**Embedded Systems & Electronics**
+- Embedded C
+- ESP32 and STM32
+- Microcontrollers and Sensor Integration
+- Digital Electronics
+- UART, SPI, and I2C
+
+**Internet of Things (IoT)**
+- ESP-NOW Communication
+- Wireless Communication
+- Real-Time Monitoring Systems
+- Hardware–Software Integration
+
+**Tools & Technologies**
+- Git and GitHub
+- MySQL
 - Node.js
 - WebSocket
-- MySQL
-- Git & GitHub
 - VS Code
-
----
 
 ## 🚀 Featured Projects
 
-### 🔹 TechMesh Vital Monitoring and Ammo Tracking
+### 1. TechMesh Vital Monitoring and Ammo Tracking
+An ESP32-based soldier monitoring and communication system using ESP-NOW mesh networking, vital-sign sensors, GPS, and real-time dashboard updates.
 
-ESP32-based real-time soldier monitoring and communication system using ESP-NOW mesh networking.
+🔗 [View Project](https://github.com/keerthana200430/TechMesh-Vital-Monitoring-and-Ammo-Tracking)
 
-**Technologies:** ESP32, ESP-NOW, MAX30105, GPS, OLED, Node.js, WebSocket
+### 2. Wearable EMG-Based Morse Code Silent Communication with AES Security
+A wearable communication system concept using EMG signals, Morse code conversion, and AES encryption for secure message transmission.
 
-**Key Features:**
-- Real-time vital parameter monitoring
-- GPS-based location tracking
-- ESP-NOW mesh communication
-- Multi-hop communication
-- Emergency alert mechanism
-- Real-time monitoring dashboard
+🔗 [View Project](https://github.com/keerthana200430/Wearable-EMG-Morse-Code-Silent-Communication-with-AES-Security)
 
-### 🔹 Wearable EMG-Based Morse Code Silent Communication
+### 3. Smart Crop Monitoring System
+An ESP32-based smart agriculture system designed to monitor soil moisture and water usage and automate irrigation.
 
-Wearable communication system that uses EMG signals to detect intentional muscle movements, convert them into Morse code, and securely transmit messages using AES encryption.
+🔗 [View Project](https://github.com/keerthana200430/Smart-Crop-Monitoring-System)
 
-**Technologies:** EMG, Embedded Systems, Signal Processing, Morse Code, AES Security
-
-**Key Features:**
-- Silent communication using muscle activity
-- EMG signal acquisition
-- Muscle pattern detection
-- Morse code generation and decoding
-- AES-based message security
-
-### 🔹 Smart Irrigation System
-
-IoT-based smart irrigation system designed to monitor environmental conditions and automate irrigation using sensor-based control.
-
-**Technologies:** ESP32, IoT, Sensors, Embedded Systems
-
-
-## 📚 Areas of Interest
-
-- Embedded Systems
-- Internet of Things (IoT)
-- Wireless Communication
-- FPGA & Digital Design
-- Sensor Integration
-- Real-Time Systems
-- Microcontrollers
-- Python Development
-
----
+## 🎯 Areas of Interest
+- Software Development
+- Software Testing and Quality Assurance
+- Embedded Systems and Firmware
+- IoT and Wireless Communication
+- Electronics and Hardware Integration
+- Technical Problem Solving
 
 ## 🎓 Education
 
-**B.E. – Electronics & Communication Engineering**  
+**Bachelor of Engineering – Electronics & Communication Engineering**  
 BMS College of Engineering
 
----
+**Diploma – Electronics & Communication Engineering**  
+Government Women's Polytechnic
 
-## 📫 Connect With Me
+## 📜 Certifications
+- Python and Full Stack Web Development
+- Samsung Innovation Campus – Internet of Things
+- Loginware Global Learning – Internship
 
-💼 **LinkedIn:** [Keerthana S](https://www.linkedin.com/in/keerthana-s-b97a5535a)
+🔗 [View Certifications](https://github.com/keerthana200430/Certifications)
 
-🐙 **GitHub:** [@keerthana200430](https://github.com/keerthana200430)
+## 🤝 Connect With Me
 
----
+- **GitHub:** [github.com/keerthana200430](https://github.com/keerthana200430)
+- **LinkedIn:** [linkedin.com/in/keerthana-s-b97a5535a](https://www.linkedin.com/in/keerthana-s-b97a5535a)
 
-⭐ Feel free to explore my repositories and projects!
+I'm always eager to learn, collaborate, and explore opportunities across software development, testing, embedded systems, IoT, and electronics.
